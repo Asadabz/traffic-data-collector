@@ -3,9 +3,10 @@ import csv
 import os
 from datetime import datetime
 
-API_KEY = "URjkRkh3LnTXcHcSne3PkjpAzIXY5p81"
+# GitHub Actions mein ye "Secret" se automatically milegi, tere local PC pe
+# manually set karni padegi (environment variable se)
+API_KEY = os.environ.get("TOMTOM_API_KEY")
 
-# City, Road Name, Latitude, Longitude
 LOCATIONS = [
     # ── Bangalore ──────────────────────────────
     ("Bangalore", "MG Road", 12.9758, 77.6045),
@@ -28,7 +29,6 @@ LOCATIONS = [
     ("Bangalore", "Yeshwanthpur Circle", 13.0284, 77.5540),
     ("Bangalore", "Jayanagar 4th Block", 12.9308, 77.5838),
     ("Bangalore", "JP Nagar", 12.9077, 77.5850),
-
     # ── Mumbai ──────────────────────────────────
     ("Mumbai", "Marine Drive", 18.9440, 72.8237),
     ("Mumbai", "Linking Road, Bandra", 19.0596, 72.8295),
@@ -51,9 +51,14 @@ LOCATIONS = [
     ("Mumbai", "Kalanagar Junction, Bandra", 19.0650, 72.8365),
     ("Mumbai", "Vashi Bridge", 19.0770, 72.9990),
 ]
+
 CSV_FILE = "realtime_traffic_data.csv"
 
 def collect_data():
+    if not API_KEY:
+        print("[FATAL] TOMTOM_API_KEY not set!")
+        return
+
     file_exists = os.path.isfile(CSV_FILE)
     with open(CSV_FILE, mode='a', newline='') as f:
         writer = csv.writer(f)
@@ -61,7 +66,7 @@ def collect_data():
             writer.writerow(["timestamp", "city", "road", "current_speed", "free_flow_speed", "confidence", "congestion_ratio"])
 
         for city, road, lat, lon in LOCATIONS:
-            url = f"https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/json"
+            url = "https://api.tomtom.com/traffic/services/4/flowSegmentData/absolute/10/json"
             params = {"key": API_KEY, "point": f"{lat},{lon}"}
             try:
                 resp = requests.get(url, params=params, timeout=10)
@@ -75,7 +80,7 @@ def collect_data():
                     congestion_ratio = round(1 - (current_speed / free_flow_speed), 3)
 
                 writer.writerow([datetime.now().isoformat(), city, road, current_speed, free_flow_speed, confidence, congestion_ratio])
-                print(f"[OK] {city} - {road}: speed={current_speed}, free_flow={free_flow_speed}, congestion={congestion_ratio}")
+                print(f"[OK] {city} - {road}: speed={current_speed}, congestion={congestion_ratio}")
             except Exception as e:
                 print(f"[ERROR] {city} - {road}: {e}")
 
