@@ -21878,3 +21878,43 @@ timestamp,city,road,current_speed,free_flow_speed,confidence,congestion_ratio
 2026-07-23T09:01:21.518397,Mumbai,"CST Road, Kalina",30,30,1,0.0
 2026-07-23T09:01:21.664493,Mumbai,"Kalanagar Junction, Bandra",16,23,0.996893,0.304
 2026-07-23T09:01:21.777993,Mumbai,Vashi Bridge,17,20,0.983291,0.15
+2026-07-23T09:31:06.993136,Bangalore,MG Road,17,26,1,0.346
+2026-07-23T09:31:07.104405,Bangalore,Brigade Road,21,26,1,0.192
+2026-07-23T09:31:07.220008,Bangalore,Commercial Street,25,29,1,0.138
+2026-07-23T09:31:07.333700,Bangalore,Residency Road,21,27,1,0.222
+2026-07-23T09:31:07.442456,Bangalore,"100 Feet Road, Indiranagar",11,23,1,0.522
+2026-07-23T09:31:07.558139,Bangalore,CMH Road,11,23,1,0.522
+2026-07-23T09:31:07.669254,Bangalore,"80 Feet Road, Koramangala",21,26,1,0.192
+2026-07-23T09:31:07.784251,Bangalore,Old Airport Road,27,35,1,0.229
+2026-07-23T09:31:07.908320,Bangalore,Bannerghatta Road,18,24,1,0.25
+2026-07-23T09:31:08.034298,Bangalore,"Outer Ring Road, Marathahalli",27,35,1,0.229
+2026-07-23T09:31:08.142180,Bangalore,Silk Board Junction,21,26,1,0.192
+2026-07-23T09:31:08.256933,Bangalore,Hosur Road,20,28,1,0.286
+2026-07-23T09:31:08.378282,Bangalore,Whitefield Main Road,24,32,0.999211,0.25
+2026-07-23T09:31:08.487780,Bangalore,Sarjapur Road,31,38,1,0.184
+2026-07-23T09:31:08.609726,Bangalore,Tumkur Road,23,37,0.994379,0.378
+2026-07-23T09:31:08.733289,Bangalore,Mysore Road,46,50,0.97577,0.08
+2026-07-23T09:31:08.839519,Bangalore,Hebbal Flyover,38,47,0.999246,0.191
+2026-07-23T09:31:08.955950,Bangalore,Yeshwanthpur Circle,21,32,1,0.344
+2026-07-23T09:31:09.074385,Bangalore,Jayanagar 4th Block,10,18,1,0.444
+2026-07-23T09:31:09.200978,Bangalore,JP Nagar,17,22,0.998955,0.227
+2026-07-23T09:31:09.314784,Mumbai,Marine Drive,62,62,1,0.0
+2026-07-23T09:31:09.444744,Mumbai,"Linking Road, Bandra",16,20,0.992816,0.2
+2026-07-23T09:31:09.579499,Mumbai,"Western Express Highway, Andheri",16,22,0.99856,0.273
+2026-07-23T09:31:09.688550,Mumbai,"Eastern Express Highway, Sion",15,19,0.987961,0.211
+2026-07-23T09:31:09.802785,Mumbai,SV Road,15,24,0.988102,0.375
+2026-07-23T09:31:09.909180,Mumbai,LBS Marg,15,19,0.987961,0.211
+2026-07-23T09:31:10.015090,Mumbai,Peddar Road,21,31,1,0.323
+2026-07-23T09:31:10.129038,Mumbai,Dadar TT Circle,35,41,1,0.146
+2026-07-23T09:31:10.242687,Mumbai,Andheri-Kurla Road,15,21,0.990313,0.286
+2026-07-23T09:31:10.364358,Mumbai,Sion-Panvel Highway,41,41,1,0.0
+2026-07-23T09:31:10.474468,Mumbai,Worli Sea Link Approach,11,23,1,0.522
+2026-07-23T09:31:10.588600,Mumbai,Chembur-Sion Road,31,35,1,0.114
+2026-07-23T09:31:10.704698,Mumbai,"Ghodbunder Road, Thane",26,26,1,0.0
+2026-07-23T09:31:10.817254,Mumbai,Juhu Tara Road,20,24,1,0.167
+2026-07-23T09:31:10.926540,Mumbai,Malad Link Road,16,20,0.96,0.2
+2026-07-23T09:31:11.068512,Mumbai,Goregaon-Mulund Link Road,18,23,0.993773,0.217
+2026-07-23T09:31:11.175790,Mumbai,Ghatkopar-Mankhurd Link Road,36,36,1,0.0
+2026-07-23T09:31:11.286786,Mumbai,"CST Road, Kalina",30,30,1,0.0
+2026-07-23T09:31:11.426635,Mumbai,"Kalanagar Junction, Bandra",16,23,0.996407,0.304
+2026-07-23T09:31:11.539859,Mumbai,Vashi Bridge,21,21,1,0.0
