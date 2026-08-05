@@ -23,7 +23,9 @@ jobs:
 
       - name: Run collector script
         env:
-          TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
+          TOMTOM_API_KEY_1: ${{ secrets.TOMTOM_API_KEY_1 }}
+          TOMTOM_API_KEY_2: ${{ secrets.TOMTOM_API_KEY_2 }}
+          TOMTOM_API_KEY_3: ${{ secrets.TOMTOM_API_KEY_3 }}
         run: python collect_traffic.py
 
       - name: Commit and push CSV
