@@ -271676,3 +271676,153 @@ timestamp,city,road,current_speed,free_flow_speed,confidence,congestion_ratio
 2026-09-06T14:01:57.902746,Bangalore,Anekal Main Road,40,44,0.783394,0.091
 2026-09-06T14:01:58.273698,Bangalore,Marathahalli-Sarjapur Connector,19,26,0.996566,0.269
 2026-09-06T14:01:58.631693,Bangalore,Iblur Junction Road,27,27,1,0.0
+2026-09-06T14:31:26.942307,Bangalore,MG Road,19,26,0.999115,0.269
+2026-09-06T14:31:27.253063,Bangalore,Brigade Road,20,26,1,0.231
+2026-09-06T14:31:27.580579,Bangalore,Commercial Street,20,28,1,0.286
+2026-09-06T14:31:27.884130,Bangalore,Residency Road,20,27,1,0.259
+2026-09-06T14:31:28.183634,Bangalore,Infantry Road,22,22,1,0.0
+2026-09-06T14:31:28.509746,Bangalore,Cubbon Road,23,28,0.999571,0.179
+2026-09-06T14:31:28.815545,Bangalore,Kasturba Road,23,28,0.999571,0.179
+2026-09-06T14:31:29.131440,Bangalore,Church Street,19,26,0.999115,0.269
+2026-09-06T14:31:29.443947,Bangalore,St Marks Road,20,27,1,0.259
+2026-09-06T14:31:29.742428,Bangalore,Vittal Mallya Road,20,27,1,0.259
+2026-09-06T14:31:30.057682,Bangalore,Richmond Road,29,29,1,0.0
+2026-09-06T14:31:30.363048,Bangalore,Lavelle Road,20,27,1,0.259
+2026-09-06T14:31:30.676312,Bangalore,Museum Road,20,27,1,0.259
+2026-09-06T14:31:30.984085,Bangalore,Palace Road,29,35,1,0.171
+2026-09-06T14:31:31.286424,Bangalore,Sankey Road,27,35,0.995757,0.229
+2026-09-06T14:31:31.585746,Bangalore,Race Course Road,24,24,1,0.0
+2026-09-06T14:31:31.889581,Bangalore,K H Road,20,27,1,0.259
+2026-09-06T14:31:32.188167,Bangalore,Wilson Garden Road,20,27,0.999565,0.259
+2026-09-06T14:31:32.484573,Bangalore,"Double Road, Sirsi Circle",22,28,1,0.214
+2026-09-06T14:31:32.788097,Bangalore,Seshadripuram Main Road,13,21,0.995861,0.381
+2026-09-06T14:31:33.099503,Bangalore,Gandhinagar Main Road,24,29,0.973244,0.172
+2026-09-06T14:31:33.405257,Bangalore,Avenue Road,18,23,0.986158,0.217
+2026-09-06T14:31:33.710484,Bangalore,"Dr Ambedkar Veedhi, Vidhana Soudha",31,43,1,0.279
+2026-09-06T14:31:34.016472,Bangalore,"Sheshadri Road, KSR Station",8,16,1,0.5
+2026-09-06T14:31:34.327544,Bangalore,"Gubbi Thotadappa Road, City Station",8,16,1,0.5
+2026-09-06T14:31:34.628693,Bangalore,"Tank Bund Road, Majestic",15,25,0.953407,0.4
+2026-09-06T14:31:34.937403,Bangalore,"Magrath Road, Garuda Mall",23,27,1,0.148
+2026-09-06T14:31:35.235977,Bangalore,Shanthi Nagar Bus Stand Road,18,25,0.993105,0.28
+2026-09-06T14:31:35.582613,Bangalore,"K G Road, Corporation Circle",19,31,0.98,0.387
+2026-09-06T14:31:35.881179,Bangalore,City Market Road,18,23,0.986158,0.217
+2026-09-06T14:31:36.186926,Bangalore,Chickpet Main Road,18,23,0.986158,0.217
+2026-09-06T14:31:36.517163,Bangalore,Nagarathpet Road,51,51,1,0.0
+2026-09-06T14:31:36.834360,Bangalore,Lalbagh Siddapura Road,22,30,0.987067,0.267
+2026-09-06T14:31:37.165478,Bangalore,Adugodi Main Road,21,26,1,0.192
+2026-09-06T14:31:37.466686,Bangalore,Hebbal Flyover,34,48,0.988689,0.292
+2026-09-06T14:31:37.780811,Bangalore,Yeshwanthpur Circle,21,32,0.996797,0.344
+2026-09-06T14:31:38.080854,Bangalore,Tumkur Road,27,37,0.994835,0.27
+2026-09-06T14:31:38.381581,Bangalore,Malleshwaram Sampige Road,26,26,1,0.0
+2026-09-06T14:31:38.686286,Bangalore,Rajajinagar Main Road,27,34,1,0.206
+2026-09-06T14:31:38.992202,Bangalore,RT Nagar Main Road,31,43,1,0.279
+2026-09-06T14:31:39.294392,Bangalore,Hennur Road,34,34,1,0.0
+2026-09-06T14:31:39.632538,Bangalore,Thanisandra Main Road,18,26,0.971694,0.308
+2026-09-06T14:31:39.932423,Bangalore,Bagalur Main Road,29,29,1,0.0
+2026-09-06T14:31:40.229113,Bangalore,"Bellary Road NH44, Airport Approach",27,27,1,0.0
+2026-09-06T14:31:40.528528,Bangalore,Kempegowda International Airport Road,38,38,1,0.0
+2026-09-06T14:31:40.835350,Bangalore,Jalahalli Road,39,39,1,0.0
+2026-09-06T14:31:41.135399,Bangalore,Vidyaranyapura Main Road,27,33,1,0.182
+2026-09-06T14:31:41.456787,Bangalore,New BEL Road,21,32,0.996797,0.344
+2026-09-06T14:31:41.767633,Bangalore,HMT Main Road,23,28,1,0.179
+2026-09-06T14:31:42.067718,Bangalore,Sanjaynagar Main Road,34,48,0.988689,0.292
+2026-09-06T14:31:42.374947,Bangalore,Sadashivanagar Main Road,20,20,1,0.0
+2026-09-06T14:31:42.706810,Bangalore,Yelahanka Main Road,29,38,0.998397,0.237
+2026-09-06T14:31:43.012978,Bangalore,Yelahanka New Town Road,25,34,0.998508,0.265
+2026-09-06T14:31:43.321123,Bangalore,Doddaballapur Road,22,35,1,0.371
+2026-09-06T14:31:43.624385,Bangalore,Hebbal-Nagawara ORR,18,26,0.971694,0.308
+2026-09-06T14:31:43.938775,Bangalore,Nagawara Main Road,18,26,0.971694,0.308
+2026-09-06T14:31:44.244836,Bangalore,Manyata Tech Park Road,17,25,0.999245,0.32
+2026-09-06T14:31:44.543871,Bangalore,Peenya Main Road,18,24,0.974968,0.25
+2026-09-06T14:31:44.844724,Bangalore,Peenya Industrial Road,25,25,1,0.0
+2026-09-06T14:31:45.143893,Bangalore,Nelamangala Road NH48,24,33,0.936162,0.273
+2026-09-06T14:31:45.452742,Bangalore,Dasarahalli Main Road,25,25,1,0.0
+2026-09-06T14:31:45.754768,Bangalore,ISKCON Hare Krishna Hill Road,27,34,1,0.206
+2026-09-06T14:31:46.051823,Bangalore,Kammanahalli Main Road,12,22,0.951651,0.455
+2026-09-06T14:31:46.356526,Bangalore,Banaswadi Main Road,18,27,0.992394,0.333
+2026-09-06T14:31:46.654700,Bangalore,HBR Layout Main Road,16,24,0.98,0.333
+2026-09-06T14:31:46.954545,Bangalore,Kalyan Nagar Main Road,8,20,0.974278,0.6
+2026-09-06T14:31:47.332782,Bangalore,Horamavu Main Road,29,29,1,0.0
+2026-09-06T14:31:47.634964,Bangalore,"100 Feet Road, Indiranagar",15,23,0.997662,0.348
+2026-09-06T14:31:47.944460,Bangalore,CMH Road,15,23,0.997662,0.348
+2026-09-06T14:31:48.262230,Bangalore,Domlur Road,27,36,1,0.25
+2026-09-06T14:31:48.569901,Bangalore,Old Airport Road,27,36,1,0.25
+2026-09-06T14:31:48.887127,Bangalore,"Outer Ring Road, Marathahalli",27,36,1,0.25
+2026-09-06T14:31:49.200451,Bangalore,Whitefield Main Road,20,32,0.999249,0.375
+2026-09-06T14:31:49.512391,Bangalore,Varthur Road,18,27,0.999607,0.333
+2026-09-06T14:31:49.824498,Bangalore,KR Puram Main Road,40,52,0.99579,0.231
+2026-09-06T14:31:50.123550,Bangalore,Old Madras Road towards Hoskote,23,30,0.945692,0.233
+2026-09-06T14:31:50.424371,Bangalore,Hoskote Road,41,41,1,0.0
+2026-09-06T14:31:50.723607,Bangalore,ITPL Main Road,26,30,0.973147,0.133
+2026-09-06T14:31:51.025243,Bangalore,Kadugodi Main Road,22,22,1,0.0
+2026-09-06T14:31:51.322226,Bangalore,Panathur Main Road,20,26,1,0.231
+2026-09-06T14:31:51.663107,Bangalore,Bellandur Main Road,27,27,1,0.0
+2026-09-06T14:31:51.960648,Bangalore,"Outer Ring Road, Bellandur-Marathahalli",24,26,0.995095,0.077
+2026-09-06T14:31:52.259682,Bangalore,Tin Factory Junction,49,55,0.988919,0.109
+2026-09-06T14:31:52.577879,Bangalore,Ramamurthy Nagar Main Road,18,25,1,0.28
+2026-09-06T14:31:52.885596,Bangalore,CV Raman Nagar Main Road,15,23,0.98,0.348
+2026-09-06T14:31:53.180743,Bangalore,Cambridge Layout Road,13,21,0.992441,0.381
+2026-09-06T14:31:53.489399,Bangalore,HAL 2nd Stage Road,28,28,1,0.0
+2026-09-06T14:31:53.814534,Bangalore,Jeevanbheemanagar Main Road,27,36,1,0.25
+2026-09-06T14:31:54.140368,Bangalore,Vimanapura Main Road,31,36,1,0.139
+2026-09-06T14:31:54.442596,Bangalore,Konena Agrahara Main Road,28,28,1,0.0
+2026-09-06T14:31:54.743222,Bangalore,Devarabeesanahalli Road,27,27,1,0.0
+2026-09-06T14:31:55.045943,Bangalore,Kundalahalli Main Road,41,41,1,0.0
+2026-09-06T14:31:55.366362,Bangalore,Kadubeesanahalli Main Road,20,26,1,0.231
+2026-09-06T14:31:55.676743,Bangalore,"Phoenix Marketcity Road, Mahadevapura",23,29,0.98935,0.207
+2026-09-06T14:31:55.981052,Bangalore,Ejipura Main Road,20,28,1,0.286
+2026-09-06T14:31:56.300878,Bangalore,Jayanagar 4th Block,11,19,0.98,0.421
+2026-09-06T14:31:56.602885,Bangalore,JP Nagar,14,23,0.995264,0.391
+2026-09-06T14:31:56.925721,Bangalore,Bannerghatta Road,20,24,1,0.167
+2026-09-06T14:31:57.222310,Bangalore,Hosur Road,21,27,0.999565,0.222
+2026-09-06T14:31:57.528018,Bangalore,"80 Feet Road, Koramangala",21,26,1,0.192
+2026-09-06T14:31:57.826359,Bangalore,HSR Layout 27th Main,43,43,1,0.0
+2026-09-06T14:31:58.145322,Bangalore,Electronic City Main Road,23,26,0.826868,0.115
+2026-09-06T14:31:58.454618,Bangalore,Bommanahalli Main Road,17,23,0.906635,0.261
+2026-09-06T14:31:58.768458,Bangalore,Silk Board Junction,21,26,1,0.192
+2026-09-06T14:31:59.071418,Bangalore,BTM Layout Main Road,23,28,1,0.179
+2026-09-06T14:31:59.377216,Bangalore,Banashankari Main Road,32,36,1,0.111
+2026-09-06T14:31:59.695517,Bangalore,Kanakapura Road,21,29,1,0.276
+2026-09-06T14:31:59.997605,Bangalore,Uttarahalli Main Road,18,25,0.997387,0.28
+2026-09-06T14:32:00.298133,Bangalore,"Bull Temple Road, Basavanagudi",22,29,0.99,0.241
+2026-09-06T14:32:00.608284,Bangalore,Gandhi Bazaar Main Road,22,29,0.99,0.241
+2026-09-06T14:32:00.905688,Bangalore,RV Road,18,29,0.990552,0.379
+2026-09-06T14:32:01.202294,Bangalore,"NICE Road, South",31,31,1,0.0
+2026-09-06T14:32:01.504606,Bangalore,Mysore Road,42,47,0.961257,0.106
+2026-09-06T14:32:01.805806,Bangalore,Magadi Road,9,17,0.92,0.471
+2026-09-06T14:32:02.113206,Bangalore,Vijayanagar Main Road,15,21,1,0.286
+2026-09-06T14:32:02.411457,Bangalore,Nagarbhavi Main Road,21,30,0.990929,0.3
+2026-09-06T14:32:02.728804,Bangalore,Kengeri Main Road,51,51,1,0.0
+2026-09-06T14:32:03.045013,Bangalore,Chord Road,18,22,1,0.182
+2026-09-06T14:32:03.344418,Bangalore,Sarjapur Road,32,38,1,0.158
+2026-09-06T14:32:03.640717,Bangalore,Bangalore Palace Approach Road,29,35,1,0.171
+2026-09-06T14:32:03.935555,Bangalore,Cunningham Road,22,29,1,0.241
+2026-09-06T14:32:04.235236,Bangalore,Millers Road,24,32,0.987897,0.25
+2026-09-06T14:32:04.544358,Bangalore,Queens Road,31,43,1,0.279
+2026-09-06T14:32:04.857545,Bangalore,"Cauvery Road, Ulsoor",22,31,0.998789,0.29
+2026-09-06T14:32:05.185807,Bangalore,Ulsoor Lake Road,24,31,0.97,0.226
+2026-09-06T14:32:05.506284,Bangalore,Assaye Road,18,25,0.968448,0.28
+2026-09-06T14:32:05.829867,Bangalore,Trinity Circle Road,23,28,0.999571,0.179
+2026-09-06T14:32:06.139743,Bangalore,Langford Road,21,26,1,0.192
+2026-09-06T14:32:06.440370,Bangalore,"Hosur Road, Bommasandra",39,49,0.989659,0.204
+2026-09-06T14:32:06.735332,Bangalore,Attibele Road,33,33,1,0.0
+2026-09-06T14:32:07.059457,Bangalore,Begur Main Road,27,27,1,0.0
+2026-09-06T14:32:07.363157,Bangalore,Hulimavu Main Road,23,30,0.998654,0.233
+2026-09-06T14:32:07.679119,Bangalore,Bilekahalli Main Road,27,34,0.98336,0.206
+2026-09-06T14:32:07.993627,Bangalore,Arekere Main Road,27,34,0.98336,0.206
+2026-09-06T14:32:08.310884,Bangalore,"Kanakapura Main Road, Konanakunte",29,36,0.989872,0.194
+2026-09-06T14:32:08.615306,Bangalore,Vasanthapura Main Road,27,30,0.980657,0.1
+2026-09-06T14:32:08.920783,Bangalore,Ideal Homes Township Road,27,36,1,0.25
+2026-09-06T14:32:09.249831,Bangalore,RR Nagar Main Road,21,29,1,0.276
+2026-09-06T14:32:09.552114,Bangalore,Bapuji Nagar Main Road,18,21,0.835142,0.143
+2026-09-06T14:32:09.863662,Bangalore,Basaveshwaranagar Main Road,19,30,0.998761,0.367
+2026-09-06T14:32:10.167783,Bangalore,Kamakshipalya Main Road,34,40,1,0.15
+2026-09-06T14:32:10.473956,Bangalore,Laggere Main Road,32,36,1,0.111
+2026-09-06T14:32:10.776931,Bangalore,Goraguntepalya Junction Road,34,40,1,0.15
+2026-09-06T14:32:11.075977,Bangalore,Byatarayanapura Main Road,30,30,1,0.0
+2026-09-06T14:32:11.376248,Bangalore,Jakkur Main Road,30,30,1,0.0
+2026-09-06T14:32:11.674254,Bangalore,Hebbagodi Main Road,25,32,0.950332,0.219
+2026-09-06T14:32:11.970238,Bangalore,Chandapura Main Road,33,33,1,0.0
+2026-09-06T14:32:12.268434,Bangalore,Anekal Main Road,45,45,1,0.0
+2026-09-06T14:32:12.572977,Bangalore,Marathahalli-Sarjapur Connector,20,25,0.997901,0.2
+2026-09-06T14:32:12.873573,Bangalore,Iblur Junction Road,27,27,1,0.0
